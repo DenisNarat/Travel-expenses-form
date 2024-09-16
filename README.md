@@ -1,2 +1,1 @@
-# Travel-expenses-form
-Travel expenses form
+This is a simple form in Microsoft Excel i did for those who need to write travel expenses for themselves. The limitations with this form are in multiple currency option. The form does not calculate multiple currencies if a user enters them. It all needs to be in the same currency. I purposely left the currency symbol out because there are lots of currencies out there, and it was easier just to not include them.
